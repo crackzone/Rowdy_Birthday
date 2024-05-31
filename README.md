@@ -1,34 +1,18 @@
-Happy Birthday
+# Happy Birthday Rowdy 🎉 
 
-A Happy Birthday animation design in CSS3, HTML5.
+Welcome to the birthday wishes repository!
 
-URL: https://sapthesh.github.io/Birthday/
+Here, we celebrate birthdays with joy and laughter. Feel free to explore the collection of heartfelt messages and cheerful greetings to make your's special day even brighter.
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+## How to Use
 
-# Setup
+1. **Browse the Wishes**: Click on the provided link to access our birthday wishes collection.
 
-## If you have python installed:
-```
-cd Birthday
-```
+Let's make birthdays even more memorable together!
 
-&& 
+## Access the Wishes
 
-```
-python -m SimpleHTTPServer --port  8081
-```
+[Click here to see Magic 🪄](https://crackzone.github.io/Rowdy_Birthday/)
 
-visit http://localhost:8081 in your browser.
-
-## If you have nodejs installed
-```
-npm install
-```
-&&
-
-```
-npm run server-node
-```
-visit http://localhost:8081 in your browser.
-
+Cheers,
+Sathish V 
